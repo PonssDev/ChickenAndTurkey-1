@@ -20,5 +20,5 @@ public class ChickenAndTurkey {
 	}
 	
 	int num = 3;
-
+	int num2 = 5;
 }
