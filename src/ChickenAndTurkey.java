@@ -18,5 +18,7 @@ public class ChickenAndTurkey {
 	        }
 
 	}
+	
+	int num = 3;
 
 }
