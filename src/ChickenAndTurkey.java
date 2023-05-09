@@ -21,6 +21,7 @@ public class ChickenAndTurkey {
 	
 	String nombre1 = "Donde esta el commit de toni";
 	String nombre = "Alan";
+	int numero = 23423;
 	
 	
 	
