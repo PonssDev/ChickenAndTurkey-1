@@ -19,7 +19,7 @@ public class ChickenAndTurkey {
 
 	}
 	
-	int num = 3;
-	int num2 = 5;
-	int num3 = 6;
+	String nombre = "Alan";
+	
+	
 }
